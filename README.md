@@ -1,10 +1,6 @@
 
-# Develop book for ATLAS D&T documentation
+# Working with the ATLAS Data&Tools Virtual Machine
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book contains the necessary steps in order to get the [http://atlasoutreach.web.cern.ch/atlasoutreach/extendedanalysis/](ATLAS-outreach Virtual Machine) (from now "**ATLAS-VM**") ready to run and create [https://en.wikipedia.org/wiki/Particle_physics](_high energy physics_) analysis using [atlas.cern](ATLAS public data)!
 
-# ![Image](./pictures/Screenshot_2015-02-02_22.28.09.png)
-
-<div class="intrinsic-container">
-   <iframe src="https://www.virtualbox.org/" title="VirtualBox webpage" width="100%" height="700" scrolling="no" frameborder="0" allowtransparency="true" class="igm" src="javascript:void(0);"></iframe>
-</div>
+# ![Image](./pictures/ATLAS-Logo-Ref-CMYK-M.jpg)
