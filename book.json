@@ -1,0 +1,16 @@
+{
+    "gitbook": "3.0.0"
+    "plugins": ["theme-official","youtube","mathjax","comments","responsive-iframes"],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "night",
+            "family": "sans",
+            "size": 2
+        }
+    },
+    "links": {
+        "sidebar": {
+            "feedback or help?": "https://www.gitbook.com/contact"
+        }
+    }
+}
