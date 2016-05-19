@@ -5,4 +5,4 @@ This book contains the necessary steps in order to get the [ATLAS-outreach Virtu
 
 # ![Image](./pictures/ATLAS-Logo-Ref-RGB-H.png)
 
-# ![Image](./pictures/atlas-normal-logo-transparent.png)
+<!--- # ![Image](./pictures/atlas-normal-logo-transparent.png) --->
