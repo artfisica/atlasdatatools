@@ -1,5 +1,5 @@
 {
-    "gitbook": "3.x.x",
+    "gitbook": "2.x.x",
     "plugins": ["youtube","mathjax","comments","fontsettings","responsive-iframes"],
     "pluginsConfig": {
         "fontsettings": {
