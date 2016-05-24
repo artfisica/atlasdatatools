@@ -1,6 +1,6 @@
 {
     "gitbook": "3.x.x",
-    "plugins": ["youtube","mathjax","comments","responsive-iframes","-fontSettings"],
+    "plugins": ["youtube","mathjax","comments","fontSettings","responsive-iframes"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "night",
