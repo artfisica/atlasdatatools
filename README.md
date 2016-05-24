@@ -5,9 +5,7 @@ This book contains the necessary steps in order to get the [ATLAS-outreach Virtu
 
 # ![Image](./pictures/ATLAS-Logo-Ref-RGB-H.png)
 
-<CENTER>
 <img src="./pictures/ATLAS-Logo-Ref-RGB-H.png" width="200" />
-</CENTER>
 
 ...lets do it!
 
