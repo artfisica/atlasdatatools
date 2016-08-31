@@ -19,3 +19,7 @@ This book contains the necessary steps in order to get the [ATLAS-outreach Virtu
   <iframe width="100%" height="1000" src="http://opendata.atlas.cern/visualisations/CrossFilter/crossfilter.html" frameborder="0" allowfullscreen></iframe>
   <hr>
 </div>
+
+<div class="intrinsic-container">
+  <iframe src="//www.youtube.com/embed/KMYrIi_Mt8A" allowfullscreen></iframe>
+</div>
